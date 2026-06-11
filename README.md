@@ -6,8 +6,8 @@ Senior Software Engineer & AI Engineer with nearly **20 years** of experience, f
 
 ## What I do (in practice)
 - **Backend & Architecture**: APIs, system design, event-driven architectures, ETL pipelines, and integrations with ERPs, payment gateways, and third-party systems
-- **E-Commerce**: end-to-end Adobe Commerce and BigCommerce projects — migrations, custom features, code opmitizations
-- **AI Engineering**: agentic workflows with LangGraph, RAG pipelines, prompt engineering, and automation with n8n
+- **E-Commerce**: end-to-end Adobe Commerce and BigCommerce projects — migrations, custom features, code optimizations
+- **AI Engineering**: agentic workflows with LangChain / LangGraph, RAG pipelines, context engineering, and automation with n8n
 - **Technical Leadership**: mentoring dev teams, defining coding standards, technical scoping, architectural documentation, and leading projects with up to 5 developers
 
 ---
@@ -16,29 +16,40 @@ Senior Software Engineer & AI Engineer with nearly **20 years** of experience, f
 
 ### Languages & Frameworks
 - **Go** (Gin)
-- **Python** (Django, LangGraph)
 - **PHP** (Adobe Commerce / Magento)
+- **Python** (Django, FastAPI, LangChain, LangGraph)
 - **Ruby on Rails**
 - **JavaScript / TypeScript**
 
 ### AI & Automation
-- **LangGraph**
+- **Agentic Engineering**
 - **Claude Code**
+- **Context Engineering**
 - **n8n**
+- **LangChain / LangGraph**
 - **RAG** (Pinecone, Gemini, ChatGPT)
-- Prompt / Context Engineering
 
-### Data
-- **PostgreSQL**
+### Data & APIs
+- **GraphQL**
 - **MySQL**
-- **Redis**
+- **PostgreSQL**
 - **RabbitMQ / MQTT**
+- **Redis**
+- **REST APIs**
 
 ### Platforms & Integrations
 - **Adobe Commerce** (Certified Expert)
 - **BigCommerce**
 - **Celigo** (Certified Core Builder)
 - Multiple ERP, payment gateway and search engine integrations
+
+### Architecture
+- API Design, API Gateway, BFF
+- Architectural diagrams (UML/MDL)
+- ETL / data migration
+- Event-driven architecture
+- iPaaS, SaaS, System design
+- Technical documentation & scoping
 
 ### Infra & Tools
 - **AWS** (EC2, RDS, ElastiCache)
@@ -57,6 +68,7 @@ Senior Software Engineer & AI Engineer with nearly **20 years** of experience, f
 ---
 
 ## Career highlights
+- 🤖 Refactored Greenole's AI companion chatbot — reduced execution time by 50% and token consumption by 67%
 - 🏗️ Started the Software Architect practice at Classy Llama, improving scope and code quality across projects
 - 🤖 Introduced the AI discipline at Santo Cartão, cutting dev time by 30% and feature delivery by 40%
 - 💰 Reduced AWS infrastructure costs by ~20% through optimization
@@ -67,15 +79,25 @@ Senior Software Engineer & AI Engineer with nearly **20 years** of experience, f
 ---
 
 ## Currently working on
-- **Greenole** — Senior Software Engineer / AI Engineer: Go (Gin), Python (Django), LangGraph, n8n, MQTT, RabbitMQ, PostgreSQL
-- **Santo Cartão** — Senior Software Engineer / IT Manager: Adobe Commerce, PHP, AWS (EC2, RDS, ElastiCache), JIRA, GitHub
+- **Greenole** — Senior Software Engineer / AI Engineer: Go (Gin), Python (Django, FastAPI), LangGraph, n8n, MQTT, RabbitMQ, PostgreSQL
 
 ---
 
 ## Certifications
-- Adobe Commerce Professional (Developer, Frontend, Business Practitioner)
 - Adobe Commerce Expert (Developer)
+- Adobe Commerce Professional (Developer, Frontend, Business Practitioner)
 - Celigo Core Builder
+
+---
+
+## Education
+- B.S. in Computer Science — Centro Universitário Farias Brito, Fortaleza, Brazil
+
+---
+
+## Languages
+- English (Fluent)
+- Portuguese (Native/Bilingual)
 
 ---
 
